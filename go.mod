@@ -1,4 +1,4 @@
-module github.com/aftership/aftership-sdk-go/v2
+module github.com/jackharley7/aftership-sdk-go/v2
 
 go 1.13
 
